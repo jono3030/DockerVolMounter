@@ -1,5 +1,5 @@
-#include "ConfigManager.h"
-#include "PathValidator.h"
+#include "../include/ConfigManager.h"
+#include "../include/PathValidator.h"
 #include <FL/Fl.H> // FLTK base lib
 #include <FL/Fl_Button.H>
 #include <FL/Fl_Hold_Browser.H>

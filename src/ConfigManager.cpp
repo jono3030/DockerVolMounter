@@ -1,4 +1,4 @@
-#include "ConfigManager.h"
+#include "../include/ConfigManager.h"
 #include <FL/fl_ask.H>
 #include <filesystem>
 #include <fstream>
