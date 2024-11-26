@@ -1,4 +1,6 @@
-# C++ GUI Interface for Mounting Volumes in MIRACL using FLTK (FULLTICK)
+# DockerVolMounter
+
+C++ GUI interface for mounting volumes in `docker-compose.yml` files using FLTK (FullTick).
 
 ## Compiling w/ makefile
 
